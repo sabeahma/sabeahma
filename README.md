@@ -2,7 +2,7 @@
 - 👀 I’m interested in IBM i Coding
 - 🌱 I’m currently learning IBM i Mordenisation & Cloud Technology  
 - 💞️ I’m looking to collaborate on IBM i Mordenisation Techniques
-- 📫 How to reach me sabeehjami@gmail.com
+- 📫 How to reach me sabeehjami13@gmail.com
 
 <!---
 sabeahma/sabeahma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
